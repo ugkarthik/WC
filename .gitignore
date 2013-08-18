@@ -1,0 +1,6 @@
+# .pyc files
+wc_app/*pyc
+
+# Eclipse editor conf
+.project
+.pydevproject
