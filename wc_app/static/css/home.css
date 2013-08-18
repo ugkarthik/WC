@@ -1,0 +1,39 @@
+/* Global */
+html, body {
+	background-color: #FFFFFF;
+    color: #555555;	
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400;
+	font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+}
+body{
+    height:100%;
+    width:100%;
+}
+
+body a:hover {text-decoration: none;}
+
+.container {width: 1100px;}
+
+.lft {float: left;}
+
+.main-hdr {
+  background-color: #007FFF;
+  background-image: linear-gradient(to bottom, #007FFF, #007FFF);
+  border-color: transparent;
+  border-radius: 0;
+  min-height: 50px;
+}
+.main-hdr .brand {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 13px;
+}
+.hero-unit {font-weight: 400;}
+
+.main-title{padding-bottom:29px;}
+
+.sbt-btn {margin-left: 27px;}
