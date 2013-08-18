@@ -2,6 +2,13 @@ Word Frequency Counter
 
 User can find the frequency of words in a text.
 
+# Initial setup
+
+If you haven' t already Tornado framework, install it by using the below command from the WC folder(after cloning project),
+  
+    pip install -r requirement.txt
+
+
 Steps to run application:
 
 - Go to wc_app folder.
